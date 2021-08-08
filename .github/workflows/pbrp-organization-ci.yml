@@ -1,4 +1,4 @@
-name: PBRP Organization CI
+name: PBRP CI
 on:
   workflow_dispatch:
     inputs:
